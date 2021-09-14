@@ -1,6 +1,5 @@
 {
       "recommendations": [
-        "redhat.vscode-didact",
-        "ibm-playground.api-hub"
+        "redhat.java"
       ]
     }
